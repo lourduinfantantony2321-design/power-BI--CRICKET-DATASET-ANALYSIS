@@ -40,12 +40,10 @@ The dashboard provides interactive visualizations that help users understand cri
 ---
 
 ## 📈 Dashboard Visualizations
+<img width="1269" height="749" alt="cricket analysis (2)" src="https://github.com/user-attachments/assets/48d54745-f006-40cd-9336-a4606a23414b" />
 
-* Pie Charts
-* Bar Charts
-* Player Statistics Tables
-* Interactive Filters
-* Performance Metrics
+<img width="1280" height="800" alt="cricket analysis" src="https://github.com/user-attachments/assets/715c8a59-d4db-426a-b746-32a1daa2c633" />
+
 
 ---
 
